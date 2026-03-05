@@ -1,0 +1,22 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Env файлы
+.env
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# Редакторы
+.vscode/
+.idea/
+*.swo
+*.swp
